@@ -21,6 +21,7 @@ inline void clearConsole() {
 }
 
 
+namespace Color {
 //console color functions
 inline void setOutBackroundColor(int r, int g, int b) {
     std::cout << "\e[48;2;" << r << ";" << g << ";" << b << "m";
@@ -33,6 +34,7 @@ inline void setOutTextColor(int r, int g, int b) {
 inline void printColor(const char* message, int r, int g, int b) {
     setOutTextColor(r, g, b);
     std::cout << "\e[37m";
+}
 }
 
 inline void RandomizeTurn(Board& board) {

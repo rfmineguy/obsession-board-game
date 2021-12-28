@@ -2,7 +2,6 @@
 #include "util.hpp"
 #include <iostream>
 #include <iomanip>
-#include <bits/stdc++.h>
 #include <ostream>
 #include <string>
 
