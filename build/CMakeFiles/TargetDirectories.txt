@@ -1,3 +1,0 @@
-/home/rfmineguy/Documents/c++/obsession/build/CMakeFiles/rebuild_cache.dir
-/home/rfmineguy/Documents/c++/obsession/build/CMakeFiles/edit_cache.dir
-/home/rfmineguy/Documents/c++/obsession/build/CMakeFiles/obsession.dir

@@ -1,1 +1,0 @@
-/usr/bin/c++ -O3 -DNDEBUG CMakeFiles/obsession.dir/src/board.cpp.o CMakeFiles/obsession.dir/src/main.cpp.o -o obsession 
